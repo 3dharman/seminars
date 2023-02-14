@@ -1,0 +1,15 @@
+C:\Users\featl\Desktop\обучение\seminars\squared\bin\Debug\net6.0\squared.exe
+C:\Users\featl\Desktop\обучение\seminars\squared\bin\Debug\net6.0\squared.deps.json
+C:\Users\featl\Desktop\обучение\seminars\squared\bin\Debug\net6.0\squared.runtimeconfig.json
+C:\Users\featl\Desktop\обучение\seminars\squared\bin\Debug\net6.0\squared.dll
+C:\Users\featl\Desktop\обучение\seminars\squared\bin\Debug\net6.0\squared.pdb
+C:\Users\featl\Desktop\обучение\seminars\squared\obj\Debug\net6.0\squared.csproj.AssemblyReference.cache
+C:\Users\featl\Desktop\обучение\seminars\squared\obj\Debug\net6.0\squared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\featl\Desktop\обучение\seminars\squared\obj\Debug\net6.0\squared.AssemblyInfoInputs.cache
+C:\Users\featl\Desktop\обучение\seminars\squared\obj\Debug\net6.0\squared.AssemblyInfo.cs
+C:\Users\featl\Desktop\обучение\seminars\squared\obj\Debug\net6.0\squared.csproj.CoreCompileInputs.cache
+C:\Users\featl\Desktop\обучение\seminars\squared\obj\Debug\net6.0\squared.dll
+C:\Users\featl\Desktop\обучение\seminars\squared\obj\Debug\net6.0\refint\squared.dll
+C:\Users\featl\Desktop\обучение\seminars\squared\obj\Debug\net6.0\squared.pdb
+C:\Users\featl\Desktop\обучение\seminars\squared\obj\Debug\net6.0\squared.genruntimeconfig.cache
+C:\Users\featl\Desktop\обучение\seminars\squared\obj\Debug\net6.0\ref\squared.dll

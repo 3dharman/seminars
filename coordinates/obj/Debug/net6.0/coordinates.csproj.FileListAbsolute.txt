@@ -1,0 +1,15 @@
+C:\Users\featl\Desktop\обучение\seminars\coordinates\obj\Debug\net6.0\coordinates.csproj.AssemblyReference.cache
+C:\Users\featl\Desktop\обучение\seminars\coordinates\obj\Debug\net6.0\coordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\featl\Desktop\обучение\seminars\coordinates\obj\Debug\net6.0\coordinates.AssemblyInfoInputs.cache
+C:\Users\featl\Desktop\обучение\seminars\coordinates\obj\Debug\net6.0\coordinates.AssemblyInfo.cs
+C:\Users\featl\Desktop\обучение\seminars\coordinates\obj\Debug\net6.0\coordinates.csproj.CoreCompileInputs.cache
+C:\Users\featl\Desktop\обучение\seminars\coordinates\bin\Debug\net6.0\coordinates.exe
+C:\Users\featl\Desktop\обучение\seminars\coordinates\bin\Debug\net6.0\coordinates.deps.json
+C:\Users\featl\Desktop\обучение\seminars\coordinates\bin\Debug\net6.0\coordinates.runtimeconfig.json
+C:\Users\featl\Desktop\обучение\seminars\coordinates\bin\Debug\net6.0\coordinates.dll
+C:\Users\featl\Desktop\обучение\seminars\coordinates\bin\Debug\net6.0\coordinates.pdb
+C:\Users\featl\Desktop\обучение\seminars\coordinates\obj\Debug\net6.0\coordinates.dll
+C:\Users\featl\Desktop\обучение\seminars\coordinates\obj\Debug\net6.0\refint\coordinates.dll
+C:\Users\featl\Desktop\обучение\seminars\coordinates\obj\Debug\net6.0\coordinates.pdb
+C:\Users\featl\Desktop\обучение\seminars\coordinates\obj\Debug\net6.0\coordinates.genruntimeconfig.cache
+C:\Users\featl\Desktop\обучение\seminars\coordinates\obj\Debug\net6.0\ref\coordinates.dll

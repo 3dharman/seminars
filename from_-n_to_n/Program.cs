@@ -1,4 +1,4 @@
-﻿// Printing a number from -N to N using the terminal //
+﻿// Printing a number from -N to N using the terminal
 
 Console.WriteLine("Enter the number");
 int number = Convert.ToInt32( Console.ReadLine());
